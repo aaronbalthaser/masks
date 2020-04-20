@@ -1,0 +1,25 @@
+{
+  "name": "pulse-utils",
+  "version": "0.0.1",
+  "description": "pulse utility helpers",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Balthaser",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronbalthaser/masks"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "masks",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/aaronbalthaser/masks/issues"
+  },
+  "homepage": "https://github.com/aaronbalthaser/masks#readme"
+}
